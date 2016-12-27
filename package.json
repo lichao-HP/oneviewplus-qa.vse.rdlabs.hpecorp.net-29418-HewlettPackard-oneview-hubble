@@ -57,5 +57,5 @@
   "scripts": {
       "build": "gulp dist",
       "start": "node server/server.js"
-    },
+    }
 }
