@@ -1,0 +1,26 @@
+# (C) Copyright 2015-2016 Hewlett Packard Enterprise Development LP
+
+**bower_components**
+node_modules
+**/dist*/**
+**/.vscode
+**/dist-bower*/**
+.DS_Store
+.sass-cache
+*.log
+*.log.json
+*tmp*
+**sublime-project**
+**sublime-workspace**
+server/jsdoc/**
+.idea
+*.pyc
+cscope*
+coverage
+**/target/**
+**/rpm/make_rpm/tmp/
+**/rpm/make_rpm/rpmbuild/
+**/tools/signature_util/target/
+server/cert/*.pem
+integration_test/elasticsearch-*/**
+cert/
